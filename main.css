@@ -97,3 +97,40 @@ table td img {
     background-color: red;
     
 }
+
+@media screen and (max-width: 720px) {
+    .container {
+        max-width: 720px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    header {
+        display: flex;
+        align-items: center;
+        justify-content:center;
+        margin-bottom: 40px;
+    }
+
+    header img {
+        height: 42px;
+        margin-right: 16px;
+    }
+
+    header h1 {
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    form {
+        display: block;
+        margin: 0 20px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    form button {
+        margin-top: 15px;
+        width: 365px;
+    }
+}
