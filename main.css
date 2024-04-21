@@ -135,7 +135,7 @@ footer {
 
     form {
         display: block;
-        margin: 0 30px;
+        margin: 0 10px;
     }
 
     form button {
@@ -144,7 +144,7 @@ footer {
     }
 
     footer {
-        
+        margin-top: 20px;
     }
 
 
