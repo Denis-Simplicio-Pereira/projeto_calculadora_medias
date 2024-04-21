@@ -98,6 +98,16 @@ table td img {
     
 }
 
+table {
+    margin-bottom: 152px;
+}
+
+footer {
+    background-color: #182c61;
+    color: #ecf0f1;
+    padding: 16px 0;
+}
+
 @media screen and (max-width: 450px) {
     .container {
         max-width: 450px;
